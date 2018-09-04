@@ -1,7 +1,8 @@
 # Max's first CS193 Lab
--This lab was easy
--The instructors were super chill
--I got to leave early!
+
+- This lab was easy
+- The instructors were super chill
+- I got to leave early!
 
 ## Welcome to GitHub Pages
 
